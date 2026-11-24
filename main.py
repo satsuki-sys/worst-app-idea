@@ -7,15 +7,15 @@ to /output/entry.txt (stdlib only, deterministic).
 
 import os
 
-# FINAL entry (v2, revised against the judge brief):
-# - sharper absurd logic: "emotional compatibility" between socks
-# - deadpan founder confidence: "AI app", "quiet heartbreak"
-# - one sentence, one idea, uses more of the 240 characters
+# FINAL entry (v4, tightened to fit 240 chars):
+# - kept: morning sock interview, emotional compatibility, vivid mismatch
+# - cut: "every"->"each", "just", "dreams of"->"wants", "again"
+#   (14 chars trimmed, nothing else lost)
 ENTRY = (
-    "SockSync is an AI app that pairs your left sock with your right sock "
-    "by emotional compatibility, so busy professionals never again suffer "
-    "the quiet heartbreak of wearing two socks that feel differently "
-    "about the day."
+    "SockSync is an AI app that interviews your socks each morning and "
+    "pairs them by emotional compatibility, so busy professionals never "
+    "suffer the quiet heartbreak of a left sock that wants adventure "
+    "and a right sock that wants to stay home."
 )
 
 
